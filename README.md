@@ -4,11 +4,9 @@
 
 ## 在线游玩
 
-https://github.com/&lt;你的用户名&gt;/dimensional-guard 部署后，通过 GitHub Pages 访问：
+直接打开：**https://zhenli12138.github.io/dimensional-guard/**
 
-```
-https://<你的用户名>.github.io/dimensional-guard/
-```
+仓库地址：https://github.com/zhenli12138/dimensional-guard
 
 首次加载需下载约 300MB 素材，建议用桌面浏览器（Chrome / Edge / Firefox 最新版）。
 
