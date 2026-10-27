@@ -1,0 +1,6 @@
+Kingdom Rush Vengeance PC original OGG effects.
+21 original recordings restored for 20 event roles, per the user's request.
+The game installation's sound index and source bytes were inspected locally.
+Copies preserve the original file bytes. These effects are separate from the
+CC0 music and ambience credits in audio46/CREDITS.txt.
+Development evidence and source hashes are retained privately in art-source/v47.

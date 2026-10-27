@@ -1,0 +1,11 @@
+# 统一行尾，避免 Windows 检出后把源码改成 CRLF
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ogg binary
+*.mp3 binary
+*.ttf binary
+*.woff2 binary
